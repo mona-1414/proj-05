@@ -4,7 +4,7 @@ Submitted by: **Mona Gomaa**
 
 This web app: **shows a list of cats with their ID and URL and search bar to search cats based on their ID**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/mona-1414/cats-fetcher-two/blob/main/project-05.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mona-1414/proj-05/blob/main/project-05.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
@@ -33,7 +33,7 @@ GIF created with LiceCap
 
 ## License
 
-    Copyright [2023] [Mona Gomaa]
+    Copyright [2024] [Mona Gomaa]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
